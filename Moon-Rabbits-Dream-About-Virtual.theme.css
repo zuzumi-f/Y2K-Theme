@@ -13,28 +13,16 @@
 /*---------------------------------------------------------------
    Theme Import you can't disable this is the full theme dummy
 ---------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/tsukino-mito-base.css');
+@import https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/tsukino-mito-base.css
 
 /*---------------------------------------------------------------
                Make it look Like Another Window
 ---------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
+@import https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css
 
 /*---------------------------------------------------------------
                         Custom Settings
 ---------------------------------------------------------------*/
-
-/* Animate the background */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css');
-
-/* Add transparency for background images */
-/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); */
-
-/* Pop Effect */
-@import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
-
-/* Reverse the position of Server list and members */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
 
 /*------------------------------------------------------
                 all the customization
